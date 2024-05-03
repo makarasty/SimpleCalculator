@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"esModuleInterop": true,
+		"allowJs": true,
+		"checkJs": true,
+		"baseUrl": ".",
+		"module": "commonjs",
+		"target": "es6"
+	}
+}
