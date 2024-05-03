@@ -1,2 +1,2 @@
 # SimpleCalculator
-Calculator app with basic arithmetic operations and a history feature. Perform addition, subtraction, multiplication, and division. History records each operation, displayed alongside the calculator
+Calculator, which in its basis uses javascript code to create the T.D. interface, does not have engineering functionality!
